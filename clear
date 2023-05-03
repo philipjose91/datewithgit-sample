@@ -1,0 +1,48 @@
+[33mcommit 540540e010fb23a4dccc9ebfb9af158dca7452d5[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Thu May 4 00:37:17 2023 +0400
+
+    index file modified
+
+[33mcommit 95e0b08a4acc5014d040bebcd8e084f1d4f68009[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Thu May 4 00:21:02 2023 +0400
+
+    hey file enter my name
+
+[33mcommit af2398109e749ab26f3806a9037435958502d267[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 3399a9a 6897fc7
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Thu May 4 00:14:47 2023 +0400
+
+    WIP on master: 3399a9a hey file edited
+
+[33mcommit 6897fc7fe2060b9846960e54d69215423bf64952[m
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Thu May 4 00:14:47 2023 +0400
+
+    index on master: 3399a9a hey file edited
+
+[33mcommit 3399a9a6011c24954917967ba43d0fa641148b86[m
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Wed May 3 00:34:42 2023 +0400
+
+    hey file edited
+
+[33mcommit 121e59682ddcd6143ff7650ab6b71a94eba77c58[m
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Wed May 3 00:15:47 2023 +0400
+
+    second file added
+
+[33mcommit 9244cabc36a8dfd3970a73f4779f6068e5ea111b[m
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Tue May 2 00:25:38 2023 +0400
+
+    added some words
+
+[33mcommit e3fa47bd3a3a2ad4bf00f093a1504e36887e5e4c[m
+Author: Philip Jose <philipjosepj91@gmail.com>
+Date:   Sun Apr 30 19:14:47 2023 +0400
+
+    Initial Commit
